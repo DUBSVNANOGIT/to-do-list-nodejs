@@ -9,6 +9,7 @@
   "author": "Arthur Jones",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.1",
     "pg": "^8.13.0",
     "redis": "^4.7.0"
   }
